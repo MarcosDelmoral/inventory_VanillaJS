@@ -1,0 +1,12 @@
+.main-table {
+    overflow-y: auto;
+    height: 100%;
+}
+
+.main-table thead th {
+    position: sticky;
+    top: 0px;
+}
+.table{
+  margin-bottom: 0;
+}
