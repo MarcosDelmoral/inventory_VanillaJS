@@ -22,7 +22,7 @@
     max-height: 80vh;
   }
 
-  /* vh-cel {
+  /* .vh-cel {
     height: 80vh !important;
   } */
 }
@@ -37,7 +37,7 @@
     max-height: 100vh;
   }
 
-  /* vh-cel {
+  .vh-cel {
     height: 100vh !important;
-  } */
+  }
 }
