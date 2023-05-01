@@ -11,33 +11,3 @@
 .table {
   margin-bottom: 0;
 }
-
-@media (max-width: 575.98px) {
-  body {
-    min-height: 80vh;
-  }
-
-  main {
-    height: 80vh;
-    max-height: 80vh;
-  }
-
-  /* .vh-cel {
-    height: 80vh !important;
-  } */
-}
-
-@media (min-width: 576px) {
-  body {
-    min-height: 100vh;
-  }
-
-  main {
-    height: 100vh;
-    max-height: 100vh;
-  }
-
-  .vh-cel {
-    height: 100vh !important;
-  }
-}
