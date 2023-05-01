@@ -1,11 +1,11 @@
 @media (max-width: 575.98px) {
     body {
-      min-height: 84vh;
+      min-height: 83vh;
     }
   
     main {
-      height: 84vh;
-      max-height: 84vh;
+      height: 83vh;
+      max-height: 83vh;
     }
   
     /* .vh-cel {
