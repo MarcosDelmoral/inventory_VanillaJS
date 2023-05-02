@@ -26,4 +26,7 @@
     .vh-cel {
       height: 100vh !important;
     }
+    .side-spacing{
+      width: 200px;
+    }
   }
